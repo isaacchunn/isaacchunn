@@ -4,16 +4,19 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;" alt="Flower Petals on Right">
 </div>
 
-<h1 align="center"> Hi there 👋, I'm Isaac
-<h3 align="center"> I tinker alot with technology and tools!
+<h1 align="center"> Hi there 👋, I'm Isaac </h1>
+<h3 align="center"> I tinker a lot with technology and tools! </h3>
 
- <p align="center" style="padding-top:10px;">
+<p align="center" style="padding-top:10px; display: flex; justify-content: center;">
+  <img src="https://komarev.com/ghpvc/?username=isaacchunn&color=ff69b4" alt="Profile views" />
+</p>
 
-![](https://komarev.com/ghpvc/?username=isaacchunn&color=ff69b4)
+<br>
+<br>
+<!-- Image -->
+<img align="right" alt="Coding" width="350" height="500" style="object-fit: cover; object-position: center;" src="https://raw.githubusercontent.com/isaacchunn/isaacchunn/90892db22a3cf8954519c57b05845f92781e3cd4/src/me.jpg">
 
- </p>
-
-<h4 align="center"> Some of the technologies I've been using recently in 2025!
+<h4 align="center" style="text-align: center;"> Some of the technologies I've been using recently in 2025! </h4>
 
 <!-- Tech Stack -->
 <div align="center">
@@ -32,9 +35,11 @@
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
-<!-- Image -->
+<br>
+
 
 <!-- Personal Information -->
+<div align="center" style="text-align:left;">
 
 🔭 I’m currently working at [Autodesk](https://www.autodesk.com/)
 
@@ -45,16 +50,21 @@
 📫 How to reach me: **isaacchunnbusiness@hotmail.com**
 
 ⚡ Fun fact: I like flavoured tea!
+</div>
+
+<div align="center" style="margin-top: 50px">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/isaacchunn/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/isaacchunn/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/isaacchunn)
+</div>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!-- Languages and Tools-->
 #### Languages and Tools
-##### Artificial Intelligience / Data Science
+##### Artificial Intelligence / Data Science
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
